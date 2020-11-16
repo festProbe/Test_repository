@@ -2,6 +2,11 @@
     grid-area: n;
     background-color: burlywood;
     padding: 20px;
+    margin-right: 10px;
+}
+
+.item {
+    font-size: 28px;
 }
 
 .item a{
@@ -11,4 +16,8 @@
 
 .item .activeLink{
     color: gold;
+}
+
+.setting {
+    padding-top: 25px;
 }
